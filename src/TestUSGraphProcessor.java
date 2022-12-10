@@ -15,9 +15,6 @@ import java.util.*;
 /**
  * Testing GraphProcessor on the family of US data
  * Precursor to autograder, which tests on US data
- * 
- * @author Emily Du
- * @author Havish Malladi
  */
 
 public class TestUSGraphProcessor {
